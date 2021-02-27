@@ -2,7 +2,9 @@
 
 Data analysis of the WeRateDogs tweets (https://twitter.com/dog_rates) using statistical inference.
 
-![](dog_cloud.png)
+<p align="center">
+  <img text-align="center" src="dog_cloud.png" alt="WeRateDogs word cloud">
+</p>
 
 ### Table of Contents
 
