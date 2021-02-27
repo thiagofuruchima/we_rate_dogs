@@ -2,6 +2,8 @@
 
 Data analysis of the WeRateDogs tweets (https://twitter.com/dog_rates) using statistical inference.
 
+<img text-align="center" src="dog_cloud.png" alt="WeRateDogs word cloud">
+
 ### Table of Contents
 
 1. [Project Motivation](#motivation)
@@ -41,5 +43,3 @@ Credits to WeRateDogs and Udacity.
 The findings here are observational, not the result of a formal study.
 
 This is a student's project, take a look at the [MIT Licence](LICENSE) before using elsewhere.
-
-<img text-align="center" src="dog_cloud.png" alt="WeRateDogs word cloud">
